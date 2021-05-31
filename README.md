@@ -1,3 +1,7 @@
+
+| <ins>__ARCHIVE NOTICE__</ins>: The implemneted environment had been cleaned up and extended into a dedicated SBP planning module at [sbp-env](https://github.com/soraxas/sbp-env). This repo will remains as is for the ICRA'19 version. |
+| ------------------------------------------------------------------------------ |
+
 # Rapidly-exploring Random disjointed-Trees
 
 RRdT* uses multiple disjointed-trees to exploit local-connectivity of spaces via [Markov Chain Monte Carlo (MCMC)](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo) random walk, which utilises neighbourhood information derived from previous successful and failed samples. The active balancing of global exploration and local exploitation is the key to improve sample efficiency.
